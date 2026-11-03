@@ -20,7 +20,7 @@ direction                : # "ltr" (default), "rtl" # set the direction of the p
 title                    : "Site Title"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
+name                     : "3x500"
 description              : "An amazing website."
 url                      : "https://3x500.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
