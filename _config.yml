@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "sunrise" # "default" , "air", "aqua", "contrast", "d
 # Site Settings
 locale                   : "en-US"
 direction                : # "ltr" (default), "rtl" # set the direction of the page
-title                    : "로니콜먼"
+title                    : "SSY"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "3x500"
@@ -114,10 +114,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "3x500"
+  name             : "Main"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "개인 블로그"
-  location         : "Somewhere"
+  bio              : "Blog"
+  location         : # "Somewhere"
   email            :
   # fediverse      : "@you@instance.social"  # used for fediverse:creator meta tag
   links:
