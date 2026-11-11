@@ -4,7 +4,7 @@ title: "AD 13. GPO 진단: 대상 선정·GPC/GPT·복제·실제 설정 추적"
 categories: [Active Directory]
 tags: [AD, GPO, gpresult, Troubleshooting]
 toc: true
-published: false
+published: true
 ---
 
 정책이 적용되지 않으면 `gpupdate /force`부터 반복하기 쉽다. 하지만 새로 고침만으로 잘못된 링크나 필터 조건을 해결할 수는 없다. 먼저 대상 선정 문제와 정책 처리 실패를 구분한다.

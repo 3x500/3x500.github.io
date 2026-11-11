@@ -4,7 +4,7 @@ title: "AD 07. Kerberos 심화: 티켓·SPN·시간·감사 로그로 실패 단
 categories: [Active Directory]
 tags: [AD, Kerberos, TGT, SPN]
 toc: true
-published: false
+published: true
 ---
 
 도메인에 로그인한 뒤 파일 서버를 열 때마다 비밀번호를 다시 입력하지 않는 이유는 무엇일까. Kerberos에서는 인증을 거쳐 발급받은 티켓을 서비스 접근에 사용한다.

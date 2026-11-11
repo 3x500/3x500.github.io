@@ -5,7 +5,7 @@ categories: [Active Directory]
 tags: [AD LDS, ADAMSync, userProxy, LDAP, Authentication]
 toc: true
 toc_sticky: true
-published: false
+published: true
 ---
 
 AD DS 사용자를 LDS에 복사했다고 도메인 암호와 자동 로그인까지 복사된 것은 아니다. 원본 LDS 문서의 동기화·앱 연동·고유 계정 절을 **데이터 전달, Bind 인증, 앱의 로그인 경험, 권한 부여**로 나눠 해석한다.

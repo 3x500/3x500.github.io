@@ -4,7 +4,7 @@ title: "AD 08. LDAP 연동 진단: 연결·TLS·Bind·Search·ACL 분리하기"
 categories: [Active Directory]
 tags: [AD, LDAP, Kerberos, LDAPS]
 toc: true
-published: false
+published: true
 ---
 
 LDAP와 Kerberos를 서로 대체하는 인증 제품처럼 비교하면 AD 연동이 헷갈린다. Kerberos는 티켓을 사용해 신원을 확인하는 인증 프로토콜이고, LDAP는 디렉터리에 연결해 정보를 검색·조작하는 프로토콜이다. LDAP 연결 과정에서도 인증이 필요할 수 있다.

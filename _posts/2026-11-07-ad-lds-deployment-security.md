@@ -5,7 +5,7 @@ categories: [Active Directory]
 tags: [AD LDS, LDAPS, Schema, Replication, Backup]
 toc: true
 toc_sticky: true
-published: false
+published: true
 ---
 
 AD LDS 역할 설치와 앱이 사용할 디렉터리 준비는 다른 단계다. 원본 LDS 문서의 설치→인스턴스→스키마→연결→보안→복제·복구 순서를 따라 각 단계에서 무엇을 확인해야 다음으로 넘어갈 수 있는지 정리한다.

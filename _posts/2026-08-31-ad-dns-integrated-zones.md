@@ -5,7 +5,7 @@ categories: [Active Directory]
 tags: [AD, DNS, Dynamic Update, Security]
 toc: true
 toc_sticky: true
-published: false
+published: true
 ---
 
 DNS 서버 두 대가 같은 레코드를 응답해도 저장 방식과 갱신 권한까지 올바르다고 판단할 수는 없다. AD 통합 영역을 설계할 때는 **어디에 저장하고, 어느 서버로 복제하며, 누가 갱신하는지**를 함께 정해야 한다.

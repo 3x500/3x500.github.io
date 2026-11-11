@@ -4,7 +4,7 @@ title: "AD 14. 복제 장애 진단: 파티션·파트너·성공 시각과 장�
 categories: [Active Directory]
 tags: [AD, Replication, repadmin, SYSVOL]
 toc: true
-published: false
+published: true
 ---
 
 DC를 두 대 운영하는데 사용자 변경 내용이 다르게 보이면 어느 서버의 정보가 맞는지부터 헷갈릴 수 있다. AD는 여러 DC의 데이터를 복제해 유지한다. 변경이 모든 DC에 즉시 나타나는 것은 아니다.

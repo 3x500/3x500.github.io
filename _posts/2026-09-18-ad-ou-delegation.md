@@ -4,7 +4,7 @@ title: "AD 10. OU·위임 설계: 관리 그룹·상속·로그온 경로 검증
 categories: [Active Directory]
 tags: [AD, OU, Delegation, Least Privilege]
 toc: true
-published: false
+published: true
 ---
 
 조직도를 그대로 OU로 만들면 부서 이동이나 개편 때마다 객체 이동과 정책 영향도 검토가 필요해진다. OU는 보기 좋은 분류보다 관리 책임과 정책 적용 범위를 기준으로 설계하는 것이 중요하다.

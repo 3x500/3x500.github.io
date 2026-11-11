@@ -4,7 +4,7 @@ title: "AD 11. AGDLP 운영: 중첩 권한·직무 이동·실제 접근 검증"
 categories: [Active Directory]
 tags: [AD, Security Group, AGDLP, ACL]
 toc: true
-published: false
+published: true
 ---
 
 파일마다 사용자 계정을 직접 등록하면 누가 어떤 이유로 접근하는지 추적하기 어렵다. 인사 이동 때 이전 권한을 회수하는 작업도 빠지기 쉽다. 그룹은 계정과 리소스 권한 사이에 관리 단위를 만든다.

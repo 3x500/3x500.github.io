@@ -4,7 +4,7 @@ title: "AD 03. 객체 식별과 스키마: OU 이동·검색 범위·연동 영�
 categories: [Active Directory]
 tags: [AD, Schema, LDAP, DN]
 toc: true
-published: false
+published: true
 ---
 
 AD 관리 화면에서 사용자를 하나 만들면 디렉터리에 사용자 객체가 생긴다. 이름, 로그인 이름, 부서 같은 값은 그 객체의 속성이다. 스키마는 어떤 종류의 객체를 만들고 어떤 속성을 사용할 수 있는지 정하는 규칙이다.

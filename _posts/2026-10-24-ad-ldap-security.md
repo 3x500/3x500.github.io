@@ -4,7 +4,7 @@ title: "AD 20. LDAP 하드닝: 바인드 방식별 서명·TLS·CBT 적용과 �
 categories: [Active Directory]
 tags: [AD, LDAP Signing, TLS, Channel Binding]
 toc: true
-published: false
+published: true
 ---
 
 “LDAP 보안을 켠다”는 표현만으로는 어떤 위협을 막는지 알기 어렵다. 서명, 암호화, 채널 바인딩은 적용 대상과 목적이 다르다.

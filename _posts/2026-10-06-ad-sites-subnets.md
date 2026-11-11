@@ -4,7 +4,7 @@ title: "AD 15. Site 물리 설계: Subnet·WAN·장애 도메인·통신 구간 
 categories: [Active Directory]
 tags: [AD, Site, Subnet, DC Locator]
 toc: true
-published: false
+published: true
 ---
 
 같은 도메인을 사용하는데 지점 PC가 먼 지역의 DC와 통신할 수 있다. OU가 지점별로 나뉘었다고 가까운 DC가 자동으로 선택되는 것은 아니다. 객체 관리 구조와 네트워크 위치를 구분해야 한다.

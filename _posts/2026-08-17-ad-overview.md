@@ -4,7 +4,7 @@ title: "AD 01. AD DS 운영 구조: 인증·권한·정책과 복구 책임 연�
 categories: [Active Directory]
 tags: [AD, AD DS, Windows Server]
 toc: true
-published: false
+published: true
 ---
 
 직원이 입사할 때마다 PC와 파일 서버에 계정을 따로 만든다고 생각해 보자. 비밀번호 변경과 퇴사자 권한 회수도 각각 처리해야 한다. 장비가 늘수록 누락을 찾기 어려워진다.

@@ -4,7 +4,7 @@ title: "AD 17. 관리자 보안: 관리 경로 분리와 비인가 로그온 탐
 categories: [Active Directory]
 tags: [AD, Least Privilege, Privileged Access, Audit]
 toc: true
-published: false
+published: true
 ---
 
 계정 생성·암호 재설정·서버 관리가 모두 필요하다고 모든 담당자에게 Domain Admin 권한을 주면 일하기는 편할 수 있다. 하지만 한 계정이 노출됐을 때 영향도 함께 커진다.

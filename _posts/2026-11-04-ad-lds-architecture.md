@@ -5,7 +5,7 @@ categories: [Active Directory]
 tags: [AD LDS, LDAP, Architecture, Security]
 toc: true
 toc_sticky: true
-published: false
+published: true
 ---
 
 앱의 사용자 프로필과 확장 속성을 LDAP로 제공해야 하지만 AD DS Forest 스키마를 바꾸고 싶지 않은 경우가 있다. AD LDS는 이런 앱 전용 디렉터리 요구를 검토할 선택이다. 원본 LDS 문서의 도입·사전 준비·아키텍처 장을 바탕으로 무엇을 분리하고 무엇을 별도로 운영해야 하는지 정리한다.

@@ -4,7 +4,7 @@ title: "AD 09. 도메인 가입 심화: 객체 재사용·보안 채널·업무 
 categories: [Active Directory]
 tags: [AD, Domain Join, Secure Channel]
 toc: true
-published: false
+published: true
 ---
 
 PC를 도메인에 가입시키는 일은 로그인 화면에 회사 계정을 입력할 수 있게 하는 것 이상이다. AD의 컴퓨터 계정과 장비의 관계를 만들고 도메인 관리에 참여시키는 과정이다.

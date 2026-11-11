@@ -4,7 +4,7 @@ title: "AD 21. 운영 점검 체계: 주기·관찰 위치·경보·조치 판�
 categories: [Active Directory]
 tags: [AD, dcdiag, repadmin, DNS, Troubleshooting]
 toc: true
-published: false
+published: true
 ---
 
 사용자가 “AD가 안 된다”고 말할 때 실제 증상은 로그인 실패, 가입 실패, 파일 접근 거부, 정책 미적용 등으로 다르다. 모든 항목을 한 번에 수정하기보다 실패 범위를 먼저 좁힌다.

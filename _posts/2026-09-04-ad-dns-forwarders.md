@@ -5,7 +5,7 @@ categories: [Active Directory]
 tags: [AD, DNS, Forwarder, Security]
 toc: true
 toc_sticky: true
-published: false
+published: true
 ---
 
 조건부 전달자에 서버 주소를 입력하고 이름이 조회됐다고 해서 설계한 전달 경로가 검증된 것은 아니다. 캐시나 로컬 영역에서 응답했을 수도 있다. 이 글에서는 원본 DNS 운영 문서의 전달 설정·장애 시나리오를 **이름 공간의 소유자, 질의 출발점, 실패 응답, 원복 조건**으로 나눠 설명한다.

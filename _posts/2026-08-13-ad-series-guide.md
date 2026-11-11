@@ -5,7 +5,7 @@ categories: [Active Directory]
 tags: [AD, AD LDS, Windows Server, Security, Portfolio]
 toc: true
 toc_sticky: true
-published: false
+published: true
 ---
 
 AD 구축·DNS·계정과 권한·보안·운영·AD LDS 업무를 설계 이유와 검증 기준으로 연결한 연재다. 원본 구축·DNS·보안·LDS 문서의 표와 화면을 선별해, 구성 요소의 관계·선택의 비용·확인 방법·장애 분기·변경 및 원복 판단을 보강했다.

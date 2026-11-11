@@ -4,7 +4,7 @@ title: "AD 12. GPO 설계·배포: 우선순위·필터·예외와 원복 수명
 categories: [Active Directory]
 tags: [AD, GPO, Group Policy]
 toc: true
-published: false
+published: true
 ---
 
 GPO를 만들었다고 정책이 모든 PC에 적용되지는 않는다. 설정 내용과 적용 대상을 따로 확인해야 한다. GPO는 규정집, 링크는 어느 구역에 그 규정을 적용할지 정하는 연결로 생각하면 쉽다.

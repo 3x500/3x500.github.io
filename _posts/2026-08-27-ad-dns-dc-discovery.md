@@ -4,7 +4,7 @@ title: "AD 04. DC Locator 진단: 레코드·후보 응답·Site·실제 통신 
 categories: [Active Directory]
 tags: [AD, DNS, SRV, DC Locator]
 toc: true
-published: false
+published: true
 ---
 
 웹사이트가 열린다고 AD에서 필요한 DNS도 정상이라고 볼 수는 없다. 인터넷 이름을 조회하는 것과 도메인의 인증 서비스를 찾는 것은 다른 질의다.

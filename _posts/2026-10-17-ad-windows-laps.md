@@ -4,7 +4,7 @@ title: "AD 18. Windows LAPS 설계: 저장·회전·조회·복호화 권한 검
 categories: [Active Directory]
 tags: [AD, Windows LAPS, Local Administrator, DSRM]
 toc: true
-published: false
+published: true
 ---
 
 모든 PC의 로컬 관리자 암호가 같으면 한 장비에서 노출된 암호가 다른 장비 접근에도 사용될 수 있다. 장비별 암호를 다르게 관리하고 교체하는 작업을 자동화하는 기능이 Windows LAPS다.

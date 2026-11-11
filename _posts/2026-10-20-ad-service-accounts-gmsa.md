@@ -4,7 +4,7 @@ title: "AD 19. gMSA 전환: KDS·호스트 허용·서비스 권한·원복 검�
 categories: [Active Directory]
 tags: [AD, gMSA, Service Account, KDS]
 toc: true
-published: false
+published: true
 ---
 
 Windows 서비스가 도메인 리소스에 접근하려면 서비스 실행 계정의 권한이 필요할 수 있다. 이때 일반 사용자 계정을 오래 사용하면 암호 변경 시 서비스 설정도 함께 바꿔야 하고, 담당자가 바뀌면 사용처를 놓치기 쉽다.

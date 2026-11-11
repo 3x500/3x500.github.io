@@ -4,7 +4,7 @@ title: "AD 02. Forest·Domain·OU 설계: 위임과 보안 경계의 선택 기�
 categories: [Active Directory]
 tags: [AD, Forest, Domain, OU]
 toc: true
-published: false
+published: true
 ---
 
 Forest·Domain·OU는 모두 AD 구조를 설명하지만, 같은 목적의 구획은 아니다. 큰 상자 안에 작은 상자가 들어간 모습으로 시작하되, 각각 무엇을 공유하고 무엇을 관리하는지 구분해야 한다.
