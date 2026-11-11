@@ -78,10 +78,10 @@ LDS01의 별도 인스턴스         별도 포트·서비스·DB·구성 집합
 
 검증표에는 역할 설치, 인스턴스 서비스, 파티션·스키마, TLS, Bind·Search, ACL, 복제, 앱 전환, 복구를 각각 남긴다. 설치 화면의 완료만으로 앱 디렉터리 도입을 완료 처리하지 않는다.
 
-관련 글: [객체·DN·스키마]({% post_url 2026-11-10-ad-objects-schema-dn %}), [LDAP 연동 단계]({% post_url 2026-11-10-ad-ldap-and-kerberos %}).
+관련 글: [객체·DN·스키마]({% post_url 2026-08-24-ad-objects-schema-dn %}), [LDAP 연동 단계]({% post_url 2026-09-11-ad-ldap-and-kerberos %}).
 
 ---
 
 적용 범위: Windows Server AD LDS의 설계 개념. 원본과 공식 개념·프로토콜 본문 대조: 2026-11-10. 이전 버전의 개념 문서를 최신 OS의 설치·지원표로 사용하지 않았다. 실제 인스턴스 구축·성능·복구 시험은 이번 작성에서 수행하지 않았다.
 
-[연재 목차]({% post_url 2026-11-10-ad-series-guide %})
+[연재 목차]({% post_url 2026-08-13-ad-series-guide %})

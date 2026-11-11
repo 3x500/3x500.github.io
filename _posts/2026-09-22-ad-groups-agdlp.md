@@ -79,4 +79,4 @@ Get-ADGroupMember -Identity DL_Finance_Read
 적용 기준: Windows Server 2019 이상 AD DS의 개념·운영. 기능별 지원 조건은 본문과 공식 문서 참조.  
 공식 근거 검토일: 2026-11-10. 명령어 예제는 이 글 작성을 위해 실제 AD에서 실행하지 않았다.
 
-[연재 목차]({% post_url 2026-11-10-ad-series-guide %})
+[연재 목차]({% post_url 2026-08-13-ad-series-guide %})

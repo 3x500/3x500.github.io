@@ -76,4 +76,4 @@ LDAP 보안 기본값은 Windows Server 버전과 신규 배포·업그레이드
 적용 기준: Windows Server 2019·2022·2025의 AD DS. 신규 배포·업그레이드 차이는 본문 참조.  
 공식 근거 검토일: 2026-11-10. 명령어 예제는 이 글 작성을 위해 실제 AD에서 실행하지 않았다.
 
-[연재 목차]({% post_url 2026-11-10-ad-series-guide %})
+[연재 목차]({% post_url 2026-08-13-ad-series-guide %})

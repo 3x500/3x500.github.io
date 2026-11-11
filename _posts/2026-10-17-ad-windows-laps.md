@@ -73,4 +73,4 @@ AD 저장 경로에서는 Windows LAPS용 스키마 준비, 관리 장비의 암
 적용 기준: 업데이트된 Windows Server 2019 이상과 지원 Windows 11의 Windows LAPS. DFL·DSRM 조건은 본문 참조.  
 공식 근거 검토일: 2026-11-10. 명령어 예제는 이 글 작성을 위해 실제 AD에서 실행하지 않았다.
 
-[연재 목차]({% post_url 2026-11-10-ad-series-guide %})
+[연재 목차]({% post_url 2026-08-13-ad-series-guide %})

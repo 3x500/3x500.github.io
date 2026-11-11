@@ -80,4 +80,4 @@ gpresult와 이벤트 로그에는 도메인·계정·서버·정책 이름이 �
 적용 기준: Windows Server AD DS와 도메인 멤버 Windows의 GPO. 명령 예제는 명령 프롬프트.  
 공식 근거 검토일: 2026-11-10. 명령어 예제는 이 글 작성을 위해 실제 AD에서 실행하지 않았다.
 
-[연재 목차]({% post_url 2026-11-10-ad-series-guide %})
+[연재 목차]({% post_url 2026-08-13-ad-series-guide %})

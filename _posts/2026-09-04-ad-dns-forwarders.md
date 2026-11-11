@@ -113,10 +113,10 @@ Resolve-DnsName -Name 'service.partner.example.net' -Type A -Server DC01 -DnsOnl
 
 대상 누락, 승인 밖 경로 사용, 기존 이름 실패, 지연 증가가 확인되면 확대를 중단한다. 주소만 되돌리지 말고 변경한 대체 경로·범위·시간 제한도 기록한 값으로 복원한 뒤 같은 질의를 재검증한다. 새 조건부 전달자를 제거할 때도 기존 영역과 의존 시스템을 먼저 확인한다. [변경 전 기록을 이용한 원복](https://learn.microsoft.com/en-us/windows-server/networking/dns/configure-dns-forwarding#roll-back-dns-forwarding)
 
-관련 글: [AD 통합 영역의 저장·복제·갱신 검증]({% post_url 2026-11-10-ad-dns-integrated-zones %}).
+관련 글: [AD 통합 영역의 저장·복제·갱신 검증]({% post_url 2026-08-31-ad-dns-integrated-zones %}).
 
 ---
 
 적용 범위: Windows Server 2019 이상 DNS. 버전·재귀·정책 조건은 공식 문서 참조. 원본 화면·본문 및 공식 근거 대조: 2026-11-10. 실제 AD/DNS에서 명령 실행·패킷 수집·장애 재현은 하지 않았다.
 
-[연재 목차]({% post_url 2026-11-10-ad-series-guide %})
+[연재 목차]({% post_url 2026-08-13-ad-series-guide %})

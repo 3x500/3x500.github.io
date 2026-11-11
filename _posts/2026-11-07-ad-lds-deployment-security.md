@@ -84,4 +84,4 @@ repadmin /showrepl LDS01.ad.example.com:50389
 
 원본 D 설치·스키마·보안·복제·복구 장과 공식 본문 대조: 2026-11-10. 이전 버전 근거는 개념과 조건을 구분해 사용했다. 이번 작성에서 설치·LDIF·TLS·복제·복원을 실제 실행하지 않았다.
 
-[연재 목차]({% post_url 2026-11-10-ad-series-guide %})
+[연재 목차]({% post_url 2026-08-13-ad-series-guide %})

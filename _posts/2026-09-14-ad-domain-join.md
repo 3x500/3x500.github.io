@@ -77,4 +77,4 @@ Test-ComputerSecureChannel -Verbose
 적용 기준: AD DS와 도메인 가입을 지원하는 Windows 클라이언트·멤버 서버. 보안 채널 예제는 Windows PowerShell 5.1.  
 공식 근거 검토일: 2026-11-10. 명령어 예제는 이 글 작성을 위해 실제 AD에서 실행하지 않았다.
 
-[연재 목차]({% post_url 2026-11-10-ad-series-guide %})
+[연재 목차]({% post_url 2026-08-13-ad-series-guide %})

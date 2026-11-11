@@ -76,4 +76,4 @@ Subnet·Site Link 변경 전 매핑·비용·일정·DC 위치·대표 단말의
 적용 기준: Windows Server AD DS의 Site·Subnet·DC Locator. 버전별 DC 검색 차이는 공식 문서 참조.  
 공식 근거 검토일: 2026-11-10. 명령어 예제는 이 글 작성을 위해 실제 AD에서 실행하지 않았다.
 
-[연재 목차]({% post_url 2026-11-10-ad-series-guide %})
+[연재 목차]({% post_url 2026-08-13-ad-series-guide %})
