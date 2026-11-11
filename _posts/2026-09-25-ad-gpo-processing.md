@@ -3,7 +3,8 @@ layout: single
 title: "AD 12. GPO 설계·배포: 우선순위·필터·예외와 원복 수명주기"
 categories: [Active Directory]
 tags: [AD, GPO, Group Policy]
-toc: true
+toc: false
+toc_sticky: true
 published: true
 ---
 

@@ -3,7 +3,8 @@ layout: single
 title: "AD 03. 객체 식별과 스키마: OU 이동·검색 범위·연동 영향 판단하기"
 categories: [Active Directory]
 tags: [AD, Schema, LDAP, DN]
-toc: true
+toc: false
+toc_sticky: true
 published: true
 ---
 

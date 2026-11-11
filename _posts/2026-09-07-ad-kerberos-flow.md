@@ -3,7 +3,8 @@ layout: single
 title: "AD 07. Kerberos 심화: 티켓·SPN·시간·감사 로그로 실패 단계 찾기"
 categories: [Active Directory]
 tags: [AD, Kerberos, TGT, SPN]
-toc: true
+toc: false
+toc_sticky: true
 published: true
 ---
 

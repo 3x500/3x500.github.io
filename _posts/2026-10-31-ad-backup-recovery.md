@@ -3,8 +3,8 @@ layout: single
 title: "AD 22. 백업·복구 설계: 장애 범위·격리·복구 지점과 업무 검증"
 categories: [Active Directory]
 tags: [AD, Backup, System State, Forest Recovery]
-toc: true
-published: true
+toc: false
+published: false
 ---
 
 DC를 여러 대 운영해도 백업은 필요하다. 한 DC가 멈췄을 때 다른 DC가 서비스를 제공하는 것과, 잘못된 변경 이전의 상태를 되찾는 것은 다른 문제다.

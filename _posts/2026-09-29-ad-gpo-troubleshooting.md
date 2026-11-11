@@ -3,7 +3,8 @@ layout: single
 title: "AD 13. GPO 진단: 대상 선정·GPC/GPT·복제·실제 설정 추적"
 categories: [Active Directory]
 tags: [AD, GPO, gpresult, Troubleshooting]
-toc: true
+toc: false
+toc_sticky: true
 published: true
 ---
 

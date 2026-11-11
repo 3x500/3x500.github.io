@@ -3,7 +3,7 @@ layout: single
 title: "AD 05. AD 통합 DNS 설계: 복제 범위와 갱신 권한을 함께 검증하기"
 categories: [Active Directory]
 tags: [AD, DNS, Dynamic Update, Security]
-toc: true
+toc: false
 toc_sticky: true
 published: true
 ---

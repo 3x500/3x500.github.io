@@ -3,7 +3,8 @@ layout: single
 title: "AD 18. Windows LAPS 설계: 저장·회전·조회·복호화 권한 검증"
 categories: [Active Directory]
 tags: [AD, Windows LAPS, Local Administrator, DSRM]
-toc: true
+toc: false
+toc_sticky: true
 published: true
 ---
 

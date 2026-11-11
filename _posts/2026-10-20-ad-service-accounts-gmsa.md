@@ -3,7 +3,8 @@ layout: single
 title: "AD 19. gMSA 전환: KDS·호스트 허용·서비스 권한·원복 검증"
 categories: [Active Directory]
 tags: [AD, gMSA, Service Account, KDS]
-toc: true
+toc: false
+toc_sticky: true
 published: true
 ---
 

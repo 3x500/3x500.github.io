@@ -3,7 +3,8 @@ layout: single
 title: "AD 04. DC Locator 진단: 레코드·후보 응답·Site·실제 통신 구분하기"
 categories: [Active Directory]
 tags: [AD, DNS, SRV, DC Locator]
-toc: true
+toc: false
+toc_sticky: true
 published: true
 ---
 

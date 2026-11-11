@@ -3,7 +3,8 @@ layout: single
 title: "AD 09. 도메인 가입 심화: 객체 재사용·보안 채널·업무 전환 검증"
 categories: [Active Directory]
 tags: [AD, Domain Join, Secure Channel]
-toc: true
+toc: false
+toc_sticky: true
 published: true
 ---
 

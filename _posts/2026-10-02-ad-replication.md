@@ -3,7 +3,8 @@ layout: single
 title: "AD 14. 복제 장애 진단: 파티션·파트너·성공 시각과 장기 중단 판단"
 categories: [Active Directory]
 tags: [AD, Replication, repadmin, SYSVOL]
-toc: true
+toc: false
+toc_sticky: true
 published: true
 ---
 

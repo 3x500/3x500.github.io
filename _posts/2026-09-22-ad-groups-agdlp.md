@@ -3,7 +3,8 @@ layout: single
 title: "AD 11. AGDLP 운영: 중첩 권한·직무 이동·실제 접근 검증"
 categories: [Active Directory]
 tags: [AD, Security Group, AGDLP, ACL]
-toc: true
+toc: false
+toc_sticky: true
 published: true
 ---
 

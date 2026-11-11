@@ -3,7 +3,8 @@ layout: single
 title: "AD 01. AD DS 운영 구조: 인증·권한·정책과 복구 책임 연결하기"
 categories: [Active Directory]
 tags: [AD, AD DS, Windows Server]
-toc: true
+toc: false
+toc_sticky: true
 published: true
 ---
 

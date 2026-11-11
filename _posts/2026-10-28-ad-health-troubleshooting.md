@@ -3,7 +3,8 @@ layout: single
 title: "AD 21. 운영 점검 체계: 주기·관찰 위치·경보·조치 판단 연결하기"
 categories: [Active Directory]
 tags: [AD, dcdiag, repadmin, DNS, Troubleshooting]
-toc: true
+toc: false
+toc_sticky: true
 published: true
 ---
 

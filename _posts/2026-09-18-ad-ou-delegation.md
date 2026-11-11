@@ -3,7 +3,8 @@ layout: single
 title: "AD 10. OU·위임 설계: 관리 그룹·상속·로그온 경로 검증하기"
 categories: [Active Directory]
 tags: [AD, OU, Delegation, Least Privilege]
-toc: true
+toc: false
+toc_sticky: true
 published: true
 ---
 

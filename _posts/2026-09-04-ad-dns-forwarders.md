@@ -3,7 +3,7 @@ layout: single
 title: "AD 06. DNS 전달 설계: 이름 공간·타임아웃·대체 경로를 검증하기"
 categories: [Active Directory]
 tags: [AD, DNS, Forwarder, Security]
-toc: true
+toc: false
 toc_sticky: true
 published: true
 ---

@@ -3,7 +3,8 @@ layout: single
 title: "AD 02. Forest·Domain·OU 설계: 위임과 보안 경계의 선택 기준"
 categories: [Active Directory]
 tags: [AD, Forest, Domain, OU]
-toc: true
+toc: false
+toc_sticky: true
 published: true
 ---
 

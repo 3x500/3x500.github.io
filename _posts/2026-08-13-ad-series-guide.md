@@ -3,7 +3,7 @@ layout: single
 title: "Active Directory 심화·보안 연재: 설계·검증·운영의 판단 기준"
 categories: [Active Directory]
 tags: [AD, AD LDS, Windows Server, Security, Portfolio]
-toc: true
+toc: false
 toc_sticky: true
 published: true
 ---
@@ -47,15 +47,15 @@ AD 구축·DNS·계정과 권한·보안·운영·AD LDS 업무를 설계 이유
 | 19 | [gMSA 전환]({% post_url 2026-10-20-ad-service-accounts-gmsa %}) | KDS·호스트·서비스·업무 권한을 나눠 확인했는가? |
 | 20 | [LDAP 하드닝]({% post_url 2026-10-24-ad-ldap-security %}) | 바인드 방식별 보호와 호환성을 조사했는가? |
 | 21 | [운영 점검 체계]({% post_url 2026-10-28-ad-health-troubleshooting %}) | 주기·관찰·경보·조치와 담당자가 연결되는가? |
-| 22 | [백업·복구 설계]({% post_url 2026-10-31-ad-backup-recovery %}) | 장애 범위에 맞는 복구 지점과 업무 검증이 있는가? |
+| 22 | 백업·복구 설계 (비공개) | 장애 범위에 맞는 복구 지점과 업무 검증이 있는가? |
 
 ## AD LDS 후속 3편
 
 | 편 | 글 | 중심 질문 |
 |---|---|---|
-| LDS 01 | [도입·구조 설계]({% post_url 2026-11-04-ad-lds-architecture %}) | 인스턴스·파티션·포트·운영 책임은 어떻게 나누는가? |
-| LDS 02 | [구성·보안·복제]({% post_url 2026-11-07-ad-lds-deployment-security %}) | 설치에서 TLS·Bind·권한·복구까지 확인했는가? |
-| LDS 03 | [ADAMSync·userProxy]({% post_url 2026-11-11-ad-lds-sync-auth %}) | 객체 동기화·암호·인증 연동·SSO를 구분했는가? |
+| LDS 01 | 도입·구조 설계 (비공개) | 인스턴스·파티션·포트·운영 책임은 어떻게 나누는가? |
+| LDS 02 | 구성·보안·복제 (비공개) | 설치에서 TLS·Bind·권한·복구까지 확인했는가? |
+| LDS 03 | ADAMSync·userProxy (비공개) | 객체 동기화·암호·인증 연동·SSO를 구분했는가? |
 
 ## 예제·원본 화면·실행 결과를 구분한다
 
